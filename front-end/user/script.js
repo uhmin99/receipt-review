@@ -5,8 +5,5 @@ document.getElementById('start-button').addEventListener('click', handleStartTra
 // Function to handle the button click event
 function handleStartTransmission() {
     alert('Data transmission started!');
-
-    //find data folder
-
-    //send data to lakehouse
+    //TODO: execute load_data.py here(maybe need framework to use node.js to execute python script)
 }
