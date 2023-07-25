@@ -1,0 +1,15 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore ML run files
+MLOps/mlruns/
+
+# Ignore parquet files from delta lake
+lakehouse/storage/
+
+# Ignore nifi binaries
+front-end/BI/ETL/
+
+# Ignore IDE-specific files (customize as needed)
+.vscode/
