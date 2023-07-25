@@ -9,7 +9,8 @@ MLOps/mlruns/
 lakehouse/storage/
 
 # Ignore nifi binaries
-front-end/BI/ETL/
+front-end/BI/ETL/nifi-1.22.0/
+front-end/BI/ETL/output
 
 # Ignore IDE-specific files (customize as needed)
 .vscode/
